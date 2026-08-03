@@ -5,7 +5,7 @@ The Habit Tracking Application is a command-line application developed in Python
 The project was developed using Object-Oriented Programming (OOP) and Functional Programming (FP) principles to produce a modular, maintainable, and reusable software solution.
 
 
-###Some features
+### Some features
 -Create new daily and weekly habits
 -Update existing habits
 -Delete habits
