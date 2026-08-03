@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Take a nap",
+        "description": "Nap for an hour",
+        "periodicity": "daily",
+        "created_at": "2026-07-27T23:47:54.120620",
+        "completions": [
+            "2026-07-28T00:04:44.350428",
+            "2026-08-03T22:22:25.837769"
+        ]
+    },
+    {
+        "name": "Exercise",
+        "description": "Go to the gym",
+        "periodicity": "weekly",
+        "created_at": "2026-07-27T23:47:54.120620",
+        "completions": []
+    },
+    {
+        "name": "Read a book",
+        "description": "Read 10 pages",
+        "periodicity": "daily",
+        "created_at": "2026-07-27T23:47:54.120620",
+        "completions": []
+    },
+    {
+        "name": "Call parents",
+        "description": "Weekly call",
+        "periodicity": "weekly",
+        "created_at": "2026-07-27T23:47:54.120620",
+        "completions": [
+            "2026-07-28T00:04:51.491496",
+            "2026-08-03T22:21:42.119386"
+        ]
+    },
+    {
+        "name": "Clean room",
+        "description": "Weekly cleanup",
+        "periodicity": "weekly",
+        "created_at": "2026-07-27T23:47:54.120620",
+        "completions": []
+    }
+]
