@@ -6,21 +6,21 @@ The project was developed using Object-Oriented Programming (OOP) and Functional
 
 
 ### Some features
-Create new daily and weekly habits 
-Update existing habits
-Delete habits
--Mark habits as completed
--View all habits 
--Calculate current and longest streaks
--Identify the most completed habit
--Count daily and weekly habits
--Generate habit summaries and analytics
--Store habit data persistently using JSON
+- Create new daily and weekly habits 
+- Update existing habits
+- Delete habits
+- Mark habits as completed
+- View all habits 
+- Calculate current and longest streaks
+- Identify the most completed habit
+- Count daily and weekly habits
+- Generate habit summaries and analytics
+- Store habit data persistently using JSON
 
 ### Some technologies
--Python 3
--Object-Oriented Programming
--Functional Programming
--JSON
+- Python 3
+- Object-Oriented Programming
+- Functional Programming
+- JSON
 -Pytest
 
