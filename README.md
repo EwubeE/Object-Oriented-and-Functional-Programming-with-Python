@@ -6,9 +6,9 @@ The project was developed using Object-Oriented Programming (OOP) and Functional
 
 
 ### Some features
--Create new daily and weekly habits 
--Update existing habits
--Delete habits
+Create new daily and weekly habits 
+Update existing habits
+Delete habits
 -Mark habits as completed
 -View all habits 
 -Calculate current and longest streaks
