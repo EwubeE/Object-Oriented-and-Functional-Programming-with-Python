@@ -1,5 +1,5 @@
 # Object-Oriented-and-Functional-Programming-with-Python
-Habit Tracking Application
+### Habit Tracking Application
 The Habit Tracking Application is a command-line application developed in Python that enables users to create, manage, and monitor their daily and weekly habits. The application allows users to add, update, delete, view, and complete habits while storing all data persistently in a JSON file. It also provides analytical features that help users evaluate their progress through streak calculations and habit summaries.
 
 The project was developed using Object-Oriented Programming (OOP) and Functional Programming (FP) principles to produce a modular, maintainable, and reusable software solution.
